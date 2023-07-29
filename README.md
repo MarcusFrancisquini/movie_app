@@ -1,4 +1,4 @@
-# User Interface
+# UI Design
  UI de aplicativo desenvolvido em Flutter que tem como função mostra alguns filmes e suas informações, como ano de lançamento, duração e sua categoria. O app também mostra o trailer do filme selecionado.
  
 <br>
